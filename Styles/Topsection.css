@@ -1,0 +1,26 @@
+.container-fluid .row {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.container-fluid .row .left-content{
+   width:60%;
+   height:100vh;
+   
+  
+}
+.container-fluid .row .left-content .description{
+    display: flex;
+    flex-direction: row;
+   justify-content: flex-start;
+   margin-left:50px;
+   line-height: 30px;
+   word-spacing: 5px;
+}
+.container-fluid .row .right-content{
+    width: 40%;
+    height: 100vh;
+   
+    
+}

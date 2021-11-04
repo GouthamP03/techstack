@@ -1,0 +1,8 @@
+.myfooter nav ul{
+    display: flex;
+    flex-direction: column;
+}
+.myfooter nav ul li{
+    margin-top: 20px;
+    padding-left: 30px;
+}
